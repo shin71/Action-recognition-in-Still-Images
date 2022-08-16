@@ -1,5 +1,5 @@
 # Action-recognition-in-Still-Images
-In this notebook I show how to recognize actions in still images well using Transfer Learning and Attention Mechanism
+In this <a href = "https://github.com/shin71/Action-recognition-in-Still-Images/blob/main/Recognizing_actions_in_still_images_distracted_driver_detection.ipynb">notebook</a> I show how to recognize actions in still images well using Transfer Learning and Attention Mechanism
 
 ## Link for the model trained 
 https://drive.google.com/file/d/1O2gzlCs5id1MZQbCjp1DSWfhuso_wzUf/view?usp=sharing
