@@ -47,7 +47,7 @@ UIET
 
 As the predictions will be graded on kaggle we need to make our predictions submittable in a csv format which are in the format defined by kaggle\.
 
-Submissions are evaluated using the multi\-class logarithmic loss which is also called  <span style="color:#0000FF"> __Categorical __ </span>  <span style="color:#0000FF"> __cross entropy__ </span> \. Each image has been labeled with one true class\.
+Submissions are evaluated using the multi\-class logarithmic loss which is also called  <span style="color:#0000FF"> Categorical </span>  <span style="color:#0000FF"> cross entropy </span> \. Each image has been labeled with one true class\.
 
 For each image\, you must submit a set of predicted probabilities \(one for every image\)\.
 
