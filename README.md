@@ -53,12 +53,12 @@ For each image\, you must submit a set of predicted probabilities \(one for ever
 
 <span style="color:#00FFFF">Function for grading</span>
 
-![](img/Learnings%20-%20Recognizing%20actions%20in%20still%20images%20and%20analysis%20the%20data%20in%20the%20problem2.png)
-
 ![](img/Learnings%20-%20Recognizing%20actions%20in%20still%20images%20and%20analysis%20the%20data%20in%20the%20problem3.png)
 
 <span style="color:#00FFFF">Submission format \-></span>
 
+![](img/Learnings%20-%20Recognizing%20actions%20in%20still%20images%20and%20analysis%20the%20data%20in%20the%20problem2.png)
+    
 # How to download the dataset
 
 We will be using Kaggle API to download the dataset
@@ -147,7 +147,7 @@ _[https://medium\.com/visionwizard/understanding\-attention\-modules\-cbam\-and\
 ![](img/Learnings%20-%20Recognizing%20actions%20in%20still%20images%20and%20analysis%20the%20data%20in%20the%20problem6.png)
 
 # Final Neural network
-
+     note - at the end of model there are 10 neurons not 40 as problem has 10 classes
 ![](img/Learnings%20-%20Recognizing%20actions%20in%20still%20images%20and%20analysis%20the%20data%20in%20the%20problem7.png)
 
 # SUBMISSION SCORES
