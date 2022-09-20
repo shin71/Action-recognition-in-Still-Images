@@ -15,11 +15,13 @@ You can load this model directly as demonstrated in the notebook to start making
     
 # Distracted Driver Detection
 
-# Using Computer vision to classify the behavior of the driver
-By-
+## Using Computer vision to classify the behavior of the driver
+```
+    By-
 Shivansh Singla
 UIET
-
+```
+    
 # Explaining the problem
 
 <span style="color:#6AA84F"> __We are given driver images\, each taken in a car with a driver doing something in the car \(texting\, eating\, talking on the phone\, makeup\, reaching behind\, etc\)\.__ </span>
