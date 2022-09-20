@@ -24,11 +24,11 @@ UIET
     
 # Explaining the problem
 
-<span style="color:#6AA84F"> __We are given driver images\, each taken in a car with a driver doing something in the car \(texting\, eating\, talking on the phone\, makeup\, reaching behind\, etc\)\.__ </span>
+<span style="color:#6AA84F"> We are given driver images\, each taken in a car with a driver doing something in the car \(texting\, eating\, talking on the phone\, makeup\, reaching behind\, etc\)\.</span>
 
-<span style="color:#6AA84F"> __ Our goal is to predict the likelihood of what the driver is doing in each picture\.__ </span>
+<span style="color:#6AA84F">  Our goal is to predict the likelihood of what the driver is doing in each picture\.</span>
 
-<span style="color:#6AA84F"> __We will be given 10 different classes in which we can classify the __ </span>  <span style="color:#6AA84F"> __activity being done by  the  driver\.__ </span>  <span style="color:#6AA84F"> __ __ </span>
+<span style="color:#6AA84F"> We will be given 10 different classes in which we can classify the  </span>  <span style="color:#6AA84F"> activity being done by  the  driver\. </span>  <span style="color:#6AA84F"> </span>
 
 ![](img/Learnings%20-%20Recognizing%20actions%20in%20still%20images%20and%20analysis%20the%20data%20in%20the%20problem0.png)
 
