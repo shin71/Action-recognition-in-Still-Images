@@ -65,9 +65,9 @@ We will be using Kaggle API to download the dataset
 
 Install kaggle package in python using  <span style="color:#00FFFF">\!pip install kaggle</span> \.You can check if its already present using  <span style="color:#00FFFF">\!pip show kaggle</span> \.
 
-Upload the kaggle\.json file which contains the api key to root directory  <span style="color:#24292F">~/\.kaggle/kaggle\.json</span>
+Upload the kaggle\.json file which contains the api key to root directory  ```~/\.kaggle/kaggle\.json```
 
-Use  <span style="color:#00FFFF">\!kaggle datasets download \-d ashkhagan/brain\-tumor\-dataset\-with\-saliency </span> to download it in zip format
+Use  ```!kaggle competitions download -c state-farm-distracted-driver-detection``` to download it in zip format
 
 # Loading/Analysing/Cleaning the data
 
